@@ -61,6 +61,6 @@ class Program
         ITire tire = factory.CreateTire();
 
         engine.Start(); // Output: Car engine started
-        tire.Roll();    // Output: Car tires rolling
+        tire.Roll();    // Output: Car tires roll
     }
 }
